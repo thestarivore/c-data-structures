@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1674772106 source:/home/starivore/Workspace/C_Projects/DataStructures/main.c
+	<stdio.h>
+	<stdlib.h>
+	"doubly_linked_list.h"
+
+1673735089 /home/starivore/Workspace/C_Projects/DataStructures/linked_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1673736516 source:/home/starivore/Workspace/C_Projects/DataStructures/linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+
+1673819696 source:/home/starivore/Workspace/C_Projects/DataStructures/binary_search_tree.c
+	<stdio.h>
+	<stdlib.h>
+	"binary_search_tree.h"
+	"stdbool.h"
+
+1673819601 /home/starivore/Workspace/C_Projects/DataStructures/binary_search_tree.h
+	<stdio.h>
+	<stdlib.h>
+
+1674427816 source:/home/starivore/Workspace/C_Projects/DataStructures/circular_linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"circular_linked_list.h"
+
+1674416694 /home/starivore/Workspace/C_Projects/DataStructures/circular_linked_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1674772077 /home/starivore/Workspace/C_Projects/DataStructures/doubly_linked_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1674776810 source:/home/starivore/Workspace/C_Projects/DataStructures/doubly_linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	"doubly_linked_list.h"
+
